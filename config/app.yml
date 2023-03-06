@@ -1,0 +1,8 @@
+mysql:
+  dns: "fox:130561Cr@tcp(81.68.206.160:3306)/fatfox?charset=utf8mb4&parseTime=True&loc=Local"
+redis:
+  addr: "81.68.206.160:6379"
+  password: ""
+  DB: 0
+  poolSize: 30
+  minIdleConn: 30
